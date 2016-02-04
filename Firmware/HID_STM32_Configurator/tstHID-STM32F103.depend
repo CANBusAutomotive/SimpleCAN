@@ -1,0 +1,1154 @@
+# depslib dependency file v1.0
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_core.c
+	"usb_lib.h"
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1378723805 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1382563690 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\platform_config.h
+	"stm32f10x.h"
+
+1358782072 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\system_stm32f10x.h
+
+1377085995 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_exti.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1376596300 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_type.h
+	"usb_conf.h"
+
+1378724747 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\usb_conf.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_regs.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_def.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_core.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_init.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_sil.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_mem.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\inc\usb_int.h
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_init.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_int.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_mem.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_regs.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm32_usb-fs-device_driver\src\usb_sil.c
+	"usb_lib.h"
+
+1382545008 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+
+1358782038 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\usb_pwr.h
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1382563690 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\hw_config.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+
+1379505210 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\usb_desc.h
+
+1376559073 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\stm32_it.c
+	"stm32_it.h"
+	"usb_istr.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"platform_config.h"
+
+1376746258 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\stm32_it.h
+	"platform_config.h"
+
+1358782038 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\usb_istr.h
+	"usb_conf.h"
+
+1379503136 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1379503796 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\usb_endp.c
+	"hw_config.h"
+	"usb_desc.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1382544424 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1378638410 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\inc\usb_prop.h
+
+1379503817 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1382545112 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1377077289 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\startup\startup_stm32f10x_md.s
+
+1377077289 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\misc.c
+	"misc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\stm_lib\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1377156672 source:d:\devel\rc\stm32\prj\tsthid-stm32f103c8\cmsis_boot\startup\startup_stm32f10x_hd.s
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_core.c
+	"usb_lib.h"
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1378723805 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1382563690 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\platform_config.h
+	"stm32f10x.h"
+
+1358782072 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1377077289 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\system_stm32f10x.h
+
+1377085995 d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_exti.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1358782078 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1376596300 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_type.h
+	"usb_conf.h"
+
+1378724747 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\usb_conf.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_regs.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_def.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_core.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_init.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_sil.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_mem.h
+
+1358782052 d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\inc\usb_int.h
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_init.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_int.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_mem.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_regs.c
+	"usb_lib.h"
+
+1358782052 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm32_usb-fs-device_driver\src\usb_sil.c
+	"usb_lib.h"
+
+1382563690 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\hw_config.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+
+1379505210 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\usb_desc.h
+
+1358782038 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\usb_pwr.h
+
+1382545008 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+
+1376559073 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\stm32_it.c
+	"stm32_it.h"
+	"usb_istr.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"platform_config.h"
+
+1376746258 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\stm32_it.h
+	"platform_config.h"
+
+1358782038 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\usb_istr.h
+	"usb_conf.h"
+
+1379503136 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1379503796 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\usb_endp.c
+	"hw_config.h"
+	"usb_desc.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1382544424 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1378638410 d:\devel\rc\stm32\prj\tsthid-stm32f103\inc\usb_prop.h
+
+1379503817 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1382545112 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1377156672 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\startup\startup_stm32f10x_hd.s
+
+1377077289 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\misc.c
+	"misc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1358782076 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1358782078 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1377077289 source:d:\devel\rc\stm32\prj\tsthid-stm32f103\cmsis_boot\startup\startup_stm32f10x_md.s
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\hw_config.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1412887330 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\platform_config.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis_boot\system_stm32f10x.h
+
+1412964086 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_can.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_type.h
+	"usb_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\usb_conf.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_regs.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_def.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_core.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_init.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_sil.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_mem.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\inc\usb_int.h
+
+1413039471 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\usb_desc.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\usb_pwr.h
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\stm32_it.c
+	"stm32_it.h"
+	"usb_istr.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\stm32_it.h
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\usb_istr.h
+	"usb_conf.h"
+
+1413231116 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1413137925 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\usb_endp.c
+	"hw_config.h"
+	"usb_desc.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\inc\usb_prop.h
+
+1412963501 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_core.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_init.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_int.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_mem.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_regs.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\usb-fs\src\usb_sil.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis_boot\startup\startup_stm32f10x_md.s
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\misc.c
+	"misc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\originalexample\rhiddemo-master\tsthid-stm32f103\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1419779384 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\hw_config.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1419888647 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\platform_config.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis_boot\system_stm32f10x.h
+
+1412964086 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_can.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_type.h
+	"usb_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\usb_conf.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_regs.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_def.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_core.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_init.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_sil.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_mem.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\inc\usb_int.h
+
+1419767794 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\usb_desc.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\usb_pwr.h
+
+1419888727 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"SoftTimer.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\stm32_it.c
+	"stm32_it.h"
+	"usb_istr.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\stm32_it.h
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\usb_istr.h
+	"usb_conf.h"
+
+1419780582 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1413137925 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\usb_endp.c
+	"hw_config.h"
+	"usb_desc.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\usb_prop.h
+
+1412963501 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_core.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_init.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_int.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_mem.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_regs.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\usb-fs\src\usb_sil.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis_boot\startup\startup_stm32f10x_md.s
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\misc.c
+	"misc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1419888727 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\src\softtimer.c
+	"SoftTimer.h"
+
+1419193825 e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\inc\softtimer.h
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_loader\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1421266112 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\softtimer.c
+	"SoftTimer.h"
+	"hw_config.h"
+	"var.h"
+
+1421096086 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\softtimer.h
+	"hw_config.h"
+	"var.h"
+
+1447602394 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\hw_config.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"var.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1420974528 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\platform_config.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis_boot\system_stm32f10x.h
+
+1412964088 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_can.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_type.h
+	"usb_conf.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\usb_conf.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_regs.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_def.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_core.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_init.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_sil.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_mem.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\inc\usb_int.h
+
+1420835832 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\usb_desc.h
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\usb_pwr.h
+
+1422280651 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"SoftTimer.h"
+	"can_Setting.h"
+
+1420898402 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\stm32_it.c
+	"stm32_it.h"
+	"usb_istr.h"
+	"usb_lib.h"
+	"usb_pwr.h"
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\stm32_it.h
+	"platform_config.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\usb_istr.h
+	"usb_conf.h"
+
+1420547432 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1413137926 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\usb_endp.c
+	"hw_config.h"
+	"usb_desc.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1388656726 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\usb_prop.h
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_core.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_init.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_int.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_mem.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_regs.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\usb-fs\src\usb_sil.c
+	"usb_lib.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis_boot\startup\startup_stm32f10x_md.s
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\misc.c
+	"misc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1420911552 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+	"var.h"
+
+1421261740 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\can_setting.h
+	"hw_config.h"
+
+1388656726 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\stm_lib\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1421265486 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\can_setting.c
+	"can_Setting.h"
+	"stm32f10x_conf.h"
+	"var.h"
+
+1447701570 e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\inc\var.h
+
+1420882100 source:e:\projekts\simplecan\soft\mc\debug\hid_stm32_configurator\src\var.c
+	"can_Setting.h"
+	"stm32f10x_conf.h"
+

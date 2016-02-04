@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\Projekts\SimpleCAN\Dropbox\SOFTWARE\configurator_3_1_2\|E:\Projekts\SimpleCAN\Dropbox\SOFTWARE\configurator_3_1_1\|E:\Projekts\SimpleCAN\Dropbox\SOFTWARE\configurator_3_1_0\|E:\Projekts\SimpleCAN\Dropbox\SOFTWARE\configurator_3_0_2\|E:\Projekts\SimpleCAN\Dropbox\SOFTWARE\configurator_3_0_1\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://localhost/Configurator/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>ru-RU</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

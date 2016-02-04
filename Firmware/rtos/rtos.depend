@@ -1,0 +1,713 @@
+# depslib dependency file v1.0
+1409692327 source:e:\projekts\gsm_control\utility\rtos\freertos\source\croutine.c
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\freertos.h
+	<stddef.h>
+	<stdint.h>
+	"FreeRTOSConfig.h"
+	"projdefs.h"
+	"portable.h"
+
+1418239840 e:\projekts\gsm_control\utility\rtos\freertos\freertosconfig.h
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\projdefs.h
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\portable.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC18F/portmacro.h"
+	"../../Source/portable/MPLAB/PIC32MX/portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1409692328 e:\projekts\gsm_control\utility\rtos\freertos\source\portable\arm_cm3\portmacro.h
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\mpu_wrappers.h
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\task.h
+	"list.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\list.h
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\croutine.h
+	"list.h"
+
+1409692327 source:e:\projekts\gsm_control\utility\rtos\freertos\source\event_groups.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"event_groups.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\timers.h
+	"task.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\event_groups.h
+	"timers.h"
+
+1409692327 source:e:\projekts\gsm_control\utility\rtos\freertos\source\list.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"list.h"
+
+1409692328 source:e:\projekts\gsm_control\utility\rtos\freertos\source\portable\arm_cm3\port.c
+	"FreeRTOS.h"
+	"task.h"
+
+1409692328 source:e:\projekts\gsm_control\utility\rtos\freertos\source\portable\memmang\heap_2.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+
+1409692328 source:e:\projekts\gsm_control\utility\rtos\freertos\source\queue.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"croutine.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\queue.h
+
+1409692328 source:e:\projekts\gsm_control\utility\rtos\freertos\source\tasks.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"StackMacros.h"
+	<stdio.h>
+	"tasks_test_access_functions.h"
+
+1409692327 e:\projekts\gsm_control\utility\rtos\freertos\source\include\stackmacros.h
+
+1409692328 source:e:\projekts\gsm_control\utility\rtos\freertos\source\timers.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"timers.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\misc.c
+	"misc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\misc.h
+	"stm32f10x.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1418751393 e:\projekts\gsm_control\utility\rtos\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1418751393 e:\projekts\gsm_control\utility\rtos\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1418751393 e:\projekts\gsm_control\utility\rtos\inc\system_stm32f10x.h
+
+1421424940 e:\projekts\gsm_control\utility\rtos\inc\stm32f10x_conf.h
+	"stm32f10x_can.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1418751393 e:\projekts\gsm_control\utility\rtos\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\src\startup_stm32f10x_md.s
+
+1418751393 source:e:\projekts\gsm_control\utility\rtos\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1421779583 source:e:\projekts\gsm_control\utility\rtos\src\main.c
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+	"var.h"
+
+1421420061 e:\projekts\gsm_control\utility\rtos\inc\var.h
+
+1421422643 source:e:\projekts\gsm_control\utility\rtos\src\var.c
+	"stm32f10x_conf.h"
+	"var.h"
+
+1421777962 source:e:\projekts\gsm_control\utility\rtos\src\gpio.c
+	"stm32f10x_conf.h"
+	"var.h"
+
+1409692328 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\croutine.c
+	"FreeRTOS.h"
+	"task.h"
+	"croutine.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\freertos.h
+	<stddef.h>
+	<stdint.h>
+	"FreeRTOSConfig.h"
+	"projdefs.h"
+	"portable.h"
+
+1454535851 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\freertosconfig.h
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\projdefs.h
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\portable.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC18F/portmacro.h"
+	"../../Source/portable/MPLAB/PIC32MX/portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1409692330 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\portable\arm_cm3\portmacro.h
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\mpu_wrappers.h
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\task.h
+	"list.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\list.h
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\croutine.h
+	"list.h"
+
+1409692328 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\event_groups.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"event_groups.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\timers.h
+	"task.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\event_groups.h
+	"timers.h"
+
+1409692328 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\list.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"list.h"
+
+1409692330 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\portable\arm_cm3\port.c
+	"FreeRTOS.h"
+	"task.h"
+
+1409692330 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\portable\memmang\heap_2.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+
+1409692330 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\queue.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"croutine.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\queue.h
+
+1409692330 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\tasks.c
+	<stdlib.h>
+	<string.h>
+	"FreeRTOS.h"
+	"task.h"
+	"timers.h"
+	"StackMacros.h"
+	<stdio.h>
+	"tasks_test_access_functions.h"
+
+1409692328 e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\include\stackmacros.h
+
+1409692330 source:e:\projekts\simplecan\soft\mc\debug\rtos\freertos\source\timers.c
+	<stdlib.h>
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"timers.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\misc.c
+	"misc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\misc.h
+	"stm32f10x.h"
+
+1454528590 e:\projekts\simplecan\soft\mc\debug\rtos\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\inc\system_stm32f10x.h
+
+1421424942 e:\projekts\simplecan\soft\mc\debug\rtos\inc\stm32f10x_conf.h
+	"stm32f10x_can.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1418751394 e:\projekts\simplecan\soft\mc\debug\rtos\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1422225056 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\gpio.c
+	"stm32f10x_conf.h"
+	"var.h"
+	"GPIO.h"
+
+1447701297 e:\projekts\simplecan\soft\mc\debug\rtos\inc\var.h
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\startup_stm32f10x_md.s
+
+1418751394 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1422224223 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\var.c
+	"stm32f10x_conf.h"
+	"var.h"
+
+1454537881 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\main.c
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"stm32f10x.h"
+	"stm32f10x_conf.h"
+	"var.h"
+	"CAN.h"
+
+1454532863 source:e:\projekts\simplecan\soft\mc\debug\rtos\src\can.c
+	"stm32f10x_conf.h"
+	"var.h"
+	"FreeRTOS.h"
+	"task.h"
+	"queue.h"
+	"CAN.h"
+
+1447580641 e:\projekts\simplecan\soft\mc\debug\rtos\inc\can.h
+
+1421422086 e:\projekts\simplecan\soft\mc\debug\rtos\inc\gpio.h
+

@@ -1,0 +1,2446 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__register_exitproc)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_fini_array)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+SaveRState          0x2               obj\debugmd\usb-fs\src\usb_int.o
+HSEStartUpStatus    0x1               obj\debugmd\src\hw_config.o
+SaveState           0x2               obj\debugmd\usb-fs\src\usb_init.o
+ProtocolValue       0x4               obj\debugmd\src\usb_prop.o
+JumpAddress         0x4               obj\debugmd\src\main.o
+wIstr               0x2               obj\debugmd\src\usb_istr.o
+ReadBufer           0x40              obj\debugmd\src\usb_prop.o
+pProperty           0x4               obj\debugmd\usb-fs\src\usb_init.o
+prTimer             0x30              obj\debugmd\src\softtimer.o
+EPindex             0x1               obj\debugmd\usb-fs\src\usb_init.o
+Jump_To_Application
+                    0x4               obj\debugmd\src\main.o
+Report_Buf          0x40              obj\debugmd\src\usb_prop.o
+btn1_prev           0x2               obj\debugmd\src\hw_config.o
+SaveTState          0x2               obj\debugmd\usb-fs\src\usb_int.o
+Device_Info         0x1c              obj\debugmd\usb-fs\src\usb_init.o
+pUser_Standard_Requests
+                    0x4               obj\debugmd\usb-fs\src\usb_init.o
+Receive_Buffer      0x40              obj\debugmd\src\usb_endp.o
+EXTI_Enable         0x1               obj\debugmd\src\usb_prop.o
+StatusInfo          0x2               obj\debugmd\usb-fs\src\usb_core.o
+pInformation        0x4               obj\debugmd\usb-fs\src\usb_init.o
+ResumeS             0x2               obj\debugmd\src\usb_pwr.o
+Buffer              0x3d              obj\debugmd\src\hw_config.o
+EP                  0x20              obj\debugmd\src\usb_pwr.o
+EXTI_InitStructure  0x8               obj\debugmd\src\hw_config.o
+btn2_prev           0x2               obj\debugmd\src\hw_config.o
+wInterrupt_Mask     0x2               obj\debugmd\usb-fs\src\usb_init.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 obj\debugmd\src\softtimer.o
+ .data          0x00000000        0x0 obj\debugmd\src\softtimer.o
+ .bss           0x00000000        0x0 obj\debugmd\src\softtimer.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\can_setting.o
+ .data          0x00000000        0x0 obj\debugmd\src\can_setting.o
+ .bss           0x00000000        0x0 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\can_setting.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\hw_config.o
+ .data          0x00000000        0x0 obj\debugmd\src\hw_config.o
+ .bss           0x00000000        0x0 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\hw_config.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\hw_config.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\main.o
+ .bss           0x00000000        0x0 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\main.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\main.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\main.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\main.o
+ COMMON         0x00000000        0x8 obj\debugmd\src\main.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\stm32_it.o
+ .data          0x00000000        0x0 obj\debugmd\src\stm32_it.o
+ .bss           0x00000000        0x0 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\stm32_it.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_desc.o
+ .text          0x00000000        0x0 obj\debugmd\src\usb_desc.o
+ .bss           0x00000000        0x0 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\usb_desc.o
+ .debug_macro   0x00000000       0x9a obj\debugmd\src\usb_desc.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_endp.o
+ .data          0x00000000        0x0 obj\debugmd\src\usb_endp.o
+ .bss           0x00000000        0x0 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x9a obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\usb_endp.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\usb_istr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_prop.o
+ .debug_macro   0x00000000       0x9a obj\debugmd\src\usb_prop.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\src\usb_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_core.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_core.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_init.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_init.o
+ .bss           0x00000000        0x0 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_init.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_int.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_int.o
+ .bss           0x00000000        0x0 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_int.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_mem.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_mem.o
+ .bss           0x00000000        0x0 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_mem.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_regs.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_regs.o
+ .bss           0x00000000        0x0 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_regs.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .group         0x00000000        0x8 obj\debugmd\usb-fs\src\usb_sil.o
+ .data          0x00000000        0x0 obj\debugmd\usb-fs\src\usb_sil.o
+ .bss           0x00000000        0x0 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x6a obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x7c obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000      0x454 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x28 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x00000000       0x5e obj\debugmd\usb-fs\src\usb_sil.o
+ .data          0x00000000        0x0 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .bss           0x00000000        0x0 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\misc.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\misc.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\misc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x00000000       0x97 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000      0x229 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .group         0x00000000        0x8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .text          0x00000000      0x9b8 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .data          0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .bss           0x00000000        0x0 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_info    0x00000000      0xa91 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x167 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_loc     0x00000000      0x658 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0x20 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x1ce obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x820 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x5d obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x3a obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x10 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x2e obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0xa2 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x20e obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x18 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0xa36 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000     0x7eb3 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x3c9 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x9d obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x2d5 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x2ad obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x82 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x3e2 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x711 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x8c obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000       0x35 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_macro   0x00000000      0x223 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_line    0x00000000      0x4d0 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_str     0x00000000    0x40f21 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .debug_frame   0x00000000      0x344 obj\debugmd\stm_lib\src\stm32f10x_usart.o
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00010000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00000000                __HEAP_SIZE = 0x0
+                0x00000100                __STACK_SIZE = 0x100
+
+.text           0x08000000     0xa844
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xec obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+                0x08000000                __isr_vector
+ *(.text*)
+ .text          0x080000ec       0x54 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .text          0x08000140       0x70 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x08000140                _start
+                0x08000140                start
+                0x08000140                _mainCRTStartup
+ .text          0x080001b0      0x14c obj\debugmd\src\softtimer.o
+                0x080001b0                TimerWork
+                0x08000288                CreateTimer
+ .text          0x080002fc      0x21c obj\debugmd\src\can_setting.o
+                0x08000334                gpioCAN
+                0x08000394                CAN_Seting
+                0x08000434                CAN_TxMSG
+                0x080004a4                Interrupt_timer_CAN
+ .text          0x08000518      0x458 obj\debugmd\src\hw_config.o
+                0x08000518                Set_System
+                0x08000600                Set_USBClock
+                0x0800061c                Enter_LowPowerMode
+                0x0800063c                Leave_LowPowerMode
+                0x08000680                USB_Interrupts_Config
+                0x080006d0                USB_Cable_Config
+                0x0800070c                readFlash
+                0x08000754                RHIDCheckState
+                0x08000828                RHID_Send
+                0x0800087c                Get_SerialNum
+ .text          0x08000970      0x24c obj\debugmd\src\main.o
+                0x080009a8                ButtonState
+                0x080009e8                Interrupt_timer
+                0x08000a5c                TIM1_UP_IRQHandler
+                0x08000a8c                Delay
+                0x08000ab0                main
+ .text          0x08000bbc       0x78 obj\debugmd\src\stm32_it.o
+                0x08000bbc                NMI_Handler
+                0x08000bc8                HardFault_Handler
+                0x08000bd0                MemManage_Handler
+                0x08000bd8                BusFault_Handler
+                0x08000be0                UsageFault_Handler
+                0x08000be8                SVC_Handler
+                0x08000bf4                DebugMon_Handler
+                0x08000c00                PendSV_Handler
+                0x08000c0c                SysTick_Handler
+                0x08000c18                USB_LP_CAN1_RX0_IRQHandler
+                0x08000c24                USBWakeUp_IRQHandler
+ .text          0x08000c34       0xd0 obj\debugmd\src\usb_endp.o
+                0x08000c34                write_flash_ep1
+                0x08000c98                EP1_OUT_Callback
+                0x08000cec                EP1_IN_Callback
+ .text          0x08000d04      0x35c obj\debugmd\src\usb_istr.o
+                0x08000d04                USB_Istr
+ .text          0x08001060      0x708 obj\debugmd\src\usb_prop.o
+                0x08001060                HID_init
+                0x08001090                HID_Reset
+                0x08001194                HID_SetConfiguration
+                0x080011c4                HID_SetDeviceAddress
+                0x080011dc                flash_write
+                0x080012c8                HID_Status_In
+                0x08001458                HID_Status_Out
+                0x08001464                HID_Data_Setup
+                0x08001560                HID_SetReport_Feature
+                0x0800159c                HID_NoData_Setup
+                0x080015d8                HID_GetDeviceDescriptor
+                0x08001600                HID_GetConfigDescriptor
+                0x08001628                HID_GetStringDescriptor
+                0x08001674                HID_GetReportDescriptor
+                0x0800169c                HID_GetHIDDescriptor
+                0x080016c4                HID_Get_Interface_Setting
+                0x080016fc                HID_SetProtocol
+                0x0800172c                HID_GetProtocolValue
+ .text          0x08001768      0x4dc obj\debugmd\src\usb_pwr.o
+                0x08001768                PowerOn
+                0x080017e8                PowerOff
+                0x08001828                Suspend
+                0x08001a28                Resume_Init
+                0x08001a68                Resume
+ .text          0x08001c44     0x140c obj\debugmd\usb-fs\src\usb_core.o
+                0x08001c44                Standard_GetConfiguration
+                0x08001c90                Standard_SetConfiguration
+                0x08001d04                Standard_GetInterface
+                0x08001d50                Standard_SetInterface
+                0x08001e18                Standard_GetStatus
+                0x08001fd4                Standard_ClearFeature
+                0x08002204                Standard_SetEndPointFeature
+                0x0800234c                Standard_SetDeviceFeature
+                0x08002384                Standard_GetDescriptorData
+                0x08002cf4                Setup0_Process
+                0x08002e14                In0_Process
+                0x08002ed0                Out0_Process
+                0x08002f5c                Post0_Process
+                0x08002fbc                SetDeviceAddress
+                0x08003044                NOP_Process
+ .text          0x08003050       0x5c obj\debugmd\usb-fs\src\usb_init.o
+                0x08003050                USB_Init
+ .text          0x080030ac      0x56c obj\debugmd\usb-fs\src\usb_int.o
+                0x080030ac                CTR_LP
+                0x080034d4                CTR_HP
+ .text          0x08003618       0xf4 obj\debugmd\usb-fs\src\usb_mem.o
+                0x08003618                UserToPMABufferCopy
+                0x080036a0                PMAToUserBufferCopy
+ .text          0x0800370c     0x129c obj\debugmd\usb-fs\src\usb_regs.o
+                0x0800370c                SetCNTR
+                0x0800372c                GetCNTR
+                0x08003744                SetISTR
+                0x08003764                GetISTR
+                0x0800377c                GetFNR
+                0x08003794                SetDADDR
+                0x080037b4                GetDADDR
+                0x080037cc                SetBTABLE
+                0x080037f4                GetBTABLE
+                0x0800380c                SetENDPOINT
+                0x08003838                GetENDPOINT
+                0x08003860                SetEPType
+                0x080038ac                GetEPType
+                0x080038dc                SetEPTxStatus
+                0x08003950                SetEPRxStatus
+                0x080039c4                SetDouBleBuffEPStall
+                0x08003a20                GetEPTxStatus
+                0x08003a50                GetEPRxStatus
+                0x08003a80                SetEPTxValid
+                0x08003ad8                SetEPRxValid
+                0x08003b30                SetEP_KIND
+                0x08003b88                ClearEP_KIND
+                0x08003be0                Clear_Status_Out
+                0x08003c38                Set_Status_Out
+                0x08003c90                SetEPDoubleBuff
+                0x08003ce8                ClearEPDoubleBuff
+                0x08003d40                GetTxStallStatus
+                0x08003d78                GetRxStallStatus
+                0x08003db0                ClearEP_CTR_RX
+                0x08003df0                ClearEP_CTR_TX
+                0x08003e30                ToggleDTOG_RX
+                0x08003e78                ToggleDTOG_TX
+                0x08003ec0                ClearDTOG_RX
+                0x08003f20                ClearDTOG_TX
+                0x08003f80                SetEPAddress
+                0x08003fd0                GetEPAddress
+                0x08004000                SetEPTxAddr
+                0x08004048                SetEPRxAddr
+                0x08004094                GetEPTxAddr
+                0x080040d0                GetEPRxAddr
+                0x08004110                SetEPTxCount
+                0x08004150                SetEPCountRxReg
+                0x080041c0                SetEPRxCount
+                0x08004258                GetEPTxCount
+                0x080042a0                GetEPRxCount
+                0x080042e8                SetEPDblBuffAddr
+                0x08004368                SetEPDblBuf0Addr
+                0x080043b0                SetEPDblBuf1Addr
+                0x080043fc                GetEPDblBuf0Addr
+                0x08004438                GetEPDblBuf1Addr
+                0x08004478                SetEPDblBuffCount
+                0x080045fc                SetEPDblBuf0Count
+                0x080046cc                SetEPDblBuf1Count
+                0x0800479c                GetEPDblBuf0Count
+                0x080047e4                GetEPDblBuf1Count
+                0x0800482c                GetEPDblBufDir
+                0x080048b8                FreeUserBuffer
+                0x08004944                ToWord
+                0x08004974                ByteSwap
+ .text          0x080049a8       0xe0 obj\debugmd\usb-fs\src\usb_sil.o
+                0x080049a8                USB_SIL_Init
+                0x080049e8                USB_SIL_Write
+                0x08004a38                USB_SIL_Read
+ .text          0x08004a88       0xa0 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+                0x08004a88                Reset_Handler
+                0x08004ace                Default_Handler
+                0x08004ad0                WWDG_IRQHandler
+                0x08004ad2                PVD_IRQHandler
+                0x08004ad4                TAMPER_IRQHandler
+                0x08004ad6                RTC_IRQHandler
+                0x08004ad8                FLASH_IRQHandler
+                0x08004ada                RCC_IRQHandler
+                0x08004adc                EXTI0_IRQHandler
+                0x08004ade                EXTI1_IRQHandler
+                0x08004ae0                EXTI2_IRQHandler
+                0x08004ae2                EXTI3_IRQHandler
+                0x08004ae4                EXTI4_IRQHandler
+                0x08004ae6                DMA1_Channel1_IRQHandler
+                0x08004ae8                DMA1_Channel2_IRQHandler
+                0x08004aea                DMA1_Channel3_IRQHandler
+                0x08004aec                DMA1_Channel4_IRQHandler
+                0x08004aee                DMA1_Channel5_IRQHandler
+                0x08004af0                DMA1_Channel6_IRQHandler
+                0x08004af2                DMA1_Channel7_IRQHandler
+                0x08004af4                ADC1_2_IRQHandler
+                0x08004af6                USB_HP_CAN1_TX_IRQHandler
+                0x08004afa                CAN1_RX1_IRQHandler
+                0x08004afc                CAN1_SCE_IRQHandler
+                0x08004afe                EXTI9_5_IRQHandler
+                0x08004b00                TIM1_BRK_IRQHandler
+                0x08004b04                TIM1_TRG_COM_IRQHandler
+                0x08004b06                TIM1_CC_IRQHandler
+                0x08004b08                TIM2_IRQHandler
+                0x08004b0a                TIM3_IRQHandler
+                0x08004b0c                TIM4_IRQHandler
+                0x08004b0e                I2C1_EV_IRQHandler
+                0x08004b10                I2C1_ER_IRQHandler
+                0x08004b12                I2C2_EV_IRQHandler
+                0x08004b14                I2C2_ER_IRQHandler
+                0x08004b16                SPI1_IRQHandler
+                0x08004b18                SPI2_IRQHandler
+                0x08004b1a                USART1_IRQHandler
+                0x08004b1c                USART2_IRQHandler
+                0x08004b1e                USART3_IRQHandler
+                0x08004b20                EXTI15_10_IRQHandler
+                0x08004b22                RTCAlarm_IRQHandler
+ .text          0x08004b28      0x39c obj\debugmd\cmsis_boot\system_stm32f10x.o
+                0x08004b28                SystemInit
+                0x08004bc4                SystemCoreClockUpdate
+ .text          0x08004ec4      0x1dc obj\debugmd\stm_lib\src\misc.o
+                0x08004ec4                NVIC_PriorityGroupConfig
+                0x08004eec                NVIC_Init
+                0x08004fd4                NVIC_SetVectorTable
+                0x08005000                NVIC_SystemLPConfig
+                0x08005054                SysTick_CLKSourceConfig
+ .text          0x080050a0     0x1214 obj\debugmd\stm_lib\src\stm32f10x_can.o
+                0x080050a0                CAN_DeInit
+                0x080050f0                CAN_Init
+                0x080052ac                CAN_FilterInit
+                0x080054bc                CAN_StructInit
+                0x08005528                CAN_SlaveStartBank
+                0x080055b4                CAN_DBGFreeze
+                0x080055ec                CAN_TTComModeCmd
+                0x08005684                CAN_Transmit
+                0x08005860                CAN_TransmitStatus
+                0x0800596c                CAN_CancelTransmit
+                0x080059bc                CAN_Receive
+                0x08005b64                CAN_FIFORelease
+                0x08005b9c                CAN_MessagePending
+                0x08005bec                CAN_OperatingModeRequest
+                0x08005d00                CAN_Sleep
+                0x08005d40                CAN_WakeUp
+                0x08005d9c                CAN_GetLastErrorCode
+                0x08005dc4                CAN_GetReceiveErrorCounter
+                0x08005dec                CAN_GetLSBTransmitErrorCounter
+                0x08005e18                CAN_ITConfig
+                0x08005e54                CAN_GetFlagStatus
+                0x08005f4c                CAN_ClearFlag
+                0x08005fc8                CAN_GetITStatus
+                0x08006180                CAN_ClearITPendingBit
+ .text          0x080062b4      0x2c0 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+                0x080062b4                EXTI_DeInit
+                0x08006308                EXTI_Init
+                0x08006440                EXTI_StructInit
+                0x08006474                EXTI_GenerateSWInterrupt
+                0x080064a0                EXTI_GetFlagStatus
+                0x080064dc                EXTI_ClearFlag
+                0x080064fc                EXTI_GetITStatus
+                0x08006554                EXTI_ClearITPendingBit
+ .text          0x08006574      0xc54 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+                0x08006574                FLASH_SetLatency
+                0x080065b4                FLASH_HalfCycleAccessCmd
+                0x080065f8                FLASH_PrefetchBufferCmd
+                0x0800663c                FLASH_Unlock
+                0x0800666c                FLASH_UnlockBank1
+                0x0800669c                FLASH_Lock
+                0x080066c0                FLASH_LockBank1
+                0x080066e4                FLASH_ErasePage
+                0x08006774                FLASH_EraseAllPages
+                0x080067f4                FLASH_EraseAllBank1Pages
+                0x08006874                FLASH_EraseOptionBytes
+                0x080069a8                FLASH_ProgramWord
+                0x08006a64                FLASH_ProgramHalfWord
+                0x08006ad8                FLASH_ProgramOptionByteData
+                0x08006b78                FLASH_EnableWriteProtection
+                0x08006cd4                FLASH_ReadOutProtection
+                0x08006e10                FLASH_UserOptionByteConfig
+                0x08006ecc                FLASH_GetUserOptionByte
+                0x08006ee8                FLASH_GetWriteProtectionOptionByte
+                0x08006f00                FLASH_GetReadOutProtectionStatus
+                0x08006f3c                FLASH_GetPrefetchBufferStatus
+                0x08006f78                FLASH_ITConfig
+                0x08006fcc                FLASH_GetFlagStatus
+                0x08007030                FLASH_ClearFlag
+                0x08007050                FLASH_GetStatus
+                0x080070c0                FLASH_GetBank1Status
+                0x08007130                FLASH_WaitForLastOperation
+                0x0800717c                FLASH_WaitForLastBank1Operation
+ .text          0x080071c8      0x700 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+                0x080071c8                GPIO_DeInit
+                0x080072f0                GPIO_AFIODeInit
+                0x08007310                GPIO_Init
+                0x080074c0                GPIO_StructInit
+                0x080074ec                GPIO_ReadInputDataBit
+                0x08007528                GPIO_ReadInputData
+                0x08007544                GPIO_ReadOutputDataBit
+                0x08007580                GPIO_ReadOutputData
+                0x0800759c                GPIO_SetBits
+                0x080075b8                GPIO_ResetBits
+                0x080075d4                GPIO_WriteBit
+                0x08007604                GPIO_Write
+                0x08007620                GPIO_PinLockConfig
+                0x08007664                GPIO_EventOutputConfig
+                0x080076b8                GPIO_EventOutputCmd
+                0x080076d8                GPIO_PinRemapConfig
+                0x080077f8                GPIO_EXTILineConfig
+                0x080078a8                GPIO_ETH_MediaInterfaceConfig
+ .text          0x080078c8      0x200 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+                0x080078c8                PWR_DeInit
+                0x080078e8                PWR_BackupAccessCmd
+                0x08007908                PWR_PVDCmd
+                0x08007928                PWR_PVDLevelConfig
+                0x08007968                PWR_WakeUpPinCmd
+                0x08007988                PWR_EnterSTOPMode
+                0x08007a08                PWR_EnterSTANDBYMode
+                0x08007a5c                PWR_GetFlagStatus
+                0x08007a98                PWR_ClearFlag
+ .text          0x08007ac8      0x9f4 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+                0x08007ac8                RCC_DeInit
+                0x08007b64                RCC_HSEConfig
+                0x08007bec                RCC_WaitForHSEStartUp
+                0x08007c50                RCC_AdjustHSICalibrationValue
+                0x08007c98                RCC_HSICmd
+                0x08007cb8                RCC_PLLConfig
+                0x08007d00                RCC_PLLCmd
+                0x08007d20                RCC_SYSCLKConfig
+                0x08007d60                RCC_GetSYSCLKSource
+                0x08007d80                RCC_HCLKConfig
+                0x08007dc0                RCC_PCLK1Config
+                0x08007e00                RCC_PCLK2Config
+                0x08007e44                RCC_ITConfig
+                0x08007ea4                RCC_USBCLKConfig
+                0x08007ec4                RCC_ADCCLKConfig
+                0x08007f04                RCC_LSEConfig
+                0x08007f64                RCC_LSICmd
+                0x08007f84                RCC_RTCCLKConfig
+                0x08007fb0                RCC_RTCCLKCmd
+                0x08007fd0                RCC_GetClocksFreq
+                0x080081a4                RCC_AHBPeriphClockCmd
+                0x080081f8                RCC_APB2PeriphClockCmd
+                0x0800824c                RCC_APB1PeriphClockCmd
+                0x080082a0                RCC_APB2PeriphResetCmd
+                0x080082f4                RCC_APB1PeriphResetCmd
+                0x08008348                RCC_BackupResetCmd
+                0x08008368                RCC_ClockSecuritySystemCmd
+                0x08008388                RCC_MCOConfig
+                0x080083a8                RCC_GetFlagStatus
+                0x08008438                RCC_ClearFlag
+                0x0800845c                RCC_GetITStatus
+                0x0800849c                RCC_ClearITPendingBit
+ .text          0x080084bc     0x1fd0 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+                0x080084bc                TIM_DeInit
+                0x0800876c                TIM_TimeBaseInit
+                0x08008888                TIM_OC1Init
+                0x080089b0                TIM_OC2Init
+                0x08008ad8                TIM_OC3Init
+                0x08008bf8                TIM_OC4Init
+                0x08008cd8                TIM_ICInit
+                0x08008d80                TIM_PWMIConfig
+                0x08008e44                TIM_BDTRConfig
+                0x08008e94                TIM_TimeBaseStructInit
+                0x08008ed0                TIM_OCStructInit
+                0x08008f24                TIM_ICStructInit
+                0x08008f60                TIM_BDTRStructInit
+                0x08008fac                TIM_Cmd
+                0x08008fec                TIM_CtrlPWMOutputs
+                0x0800903c                TIM_ITConfig
+                0x08009084                TIM_GenerateEvent
+                0x080090a0                TIM_DMAConfig
+                0x080090c8                TIM_DMACmd
+                0x08009110                TIM_InternalClockConfig
+                0x08009134                TIM_ITRxExternalClockConfig
+                0x08009164                TIM_TIxExternalClockConfig
+                0x080091bc                TIM_ETRClockMode1Config
+                0x08009210                TIM_ETRClockMode2Config
+                0x08009244                TIM_ETRConfig
+                0x08009290                TIM_PrescalerConfig
+                0x080092b8                TIM_CounterModeConfig
+                0x080092f0                TIM_SelectInputTrigger
+                0x08009328                TIM_EncoderInterfaceConfig
+                0x080093bc                TIM_ForcedOC1Config
+                0x080093f4                TIM_ForcedOC2Config
+                0x08009434                TIM_ForcedOC3Config
+                0x0800946c                TIM_ForcedOC4Config
+                0x080094ac                TIM_ARRPreloadConfig
+                0x080094ec                TIM_SelectCOM
+                0x0800952c                TIM_SelectCCDMA
+                0x0800956c                TIM_CCPreloadControl
+                0x080095ac                TIM_OC1PreloadConfig
+                0x080095e4                TIM_OC2PreloadConfig
+                0x08009624                TIM_OC3PreloadConfig
+                0x0800965c                TIM_OC4PreloadConfig
+                0x0800969c                TIM_OC1FastConfig
+                0x080096d4                TIM_OC2FastConfig
+                0x08009714                TIM_OC3FastConfig
+                0x0800974c                TIM_OC4FastConfig
+                0x0800978c                TIM_ClearOC1Ref
+                0x080097c4                TIM_ClearOC2Ref
+                0x08009808                TIM_ClearOC3Ref
+                0x08009840                TIM_ClearOC4Ref
+                0x08009884                TIM_OC1PolarityConfig
+                0x080098bc                TIM_OC1NPolarityConfig
+                0x080098f4                TIM_OC2PolarityConfig
+                0x08009934                TIM_OC2NPolarityConfig
+                0x08009974                TIM_OC3PolarityConfig
+                0x080099b4                TIM_OC3NPolarityConfig
+                0x080099f4                TIM_OC4PolarityConfig
+                0x08009a34                TIM_CCxCmd
+                0x08009a90                TIM_CCxNCmd
+                0x08009aec                TIM_SelectOCxM
+                0x08009ba8                TIM_UpdateDisableConfig
+                0x08009be8                TIM_UpdateRequestConfig
+                0x08009c28                TIM_SelectHallSensor
+                0x08009c68                TIM_SelectOnePulseMode
+                0x08009ca0                TIM_SelectOutputTrigger
+                0x08009cd8                TIM_SelectSlaveMode
+                0x08009d10                TIM_SelectMasterSlaveMode
+                0x08009d48                TIM_SetCounter
+                0x08009d64                TIM_SetAutoreload
+                0x08009d80                TIM_SetCompare1
+                0x08009d9c                TIM_SetCompare2
+                0x08009db8                TIM_SetCompare3
+                0x08009dd4                TIM_SetCompare4
+                0x08009df4                TIM_SetIC1Prescaler
+                0x08009e2c                TIM_SetIC2Prescaler
+                0x08009e68                TIM_SetIC3Prescaler
+                0x08009ea0                TIM_SetIC4Prescaler
+                0x08009edc                TIM_SetClockDivision
+                0x08009f14                TIM_GetCapture1
+                0x08009f30                TIM_GetCapture2
+                0x08009f4c                TIM_GetCapture3
+                0x08009f68                TIM_GetCapture4
+                0x08009f84                TIM_GetCounter
+                0x08009fa0                TIM_GetPrescaler
+                0x08009fbc                TIM_GetFlagStatus
+                0x08009ffc                TIM_ClearFlag
+                0x0800a020                TIM_GetITStatus
+                0x0800a080                TIM_ClearITPendingBit
+ .text.__register_exitproc
+                0x0800a48c       0xb0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+                0x0800a48c                __register_exitproc
+ .text.exit     0x0800a53c       0x20 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+                0x0800a53c                exit
+ .text.__libc_fini_array
+                0x0800a55c       0x2c c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+                0x0800a55c                __libc_fini_array
+ .text.__libc_init_array
+                0x0800a588       0x50 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+                0x0800a588                __libc_init_array
+ .text.memset   0x0800a5d8       0x94 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                0x0800a5d8                memset
+ .text.startup.register_fini
+                0x0800a66c       0x14 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0800a680       0xd8 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+                0x0800a680                __call_exitprocs
+ .text.atexit   0x0800a758        0xc c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+                0x0800a758                atexit
+ .text._exit    0x0800a764        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                0x0800a764                _exit
+ *(.init)
+ .init          0x0800a768        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+                0x0800a768                _init
+ .init          0x0800a76c        0x8 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x0800a774        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+                0x0800a774                _fini
+ .fini          0x0800a778        0x8 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0800a780       0xb8 obj\debugmd\src\usb_desc.o
+                0x0800a780                RHID_DeviceDescriptor
+                0x0800a794                RHID_ConfigDescriptor
+                0x0800a7c0                RHID_ReportDescriptor
+                0x0800a810                RHID_StringLangID
+                0x0800a814                RHID_StringVendor
+                0x0800a820                RHID_StringProduct
+ .rodata.str1.4
+                0x0800a838        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0800a83c        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                0x0800a83c                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0800a840        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .eh_frame      0x0800a840        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+
+.glue_7         0x0800a844        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0800a844        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0800a844        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800a844        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800a844        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800a844                __exidx_start = .
+
+.ARM.exidx      0x0800a844        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0800a844        0x8 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0800a84c                __exidx_end = .
+                0x0800a84c                __etext = .
+
+.rel.dyn        0x0800a84c        0x0
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.data           0x20000000      0x554 load address 0x0800a84c
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000        0x1 obj\debugmd\src\main.o
+                0x20000000                PrevXferComplete
+ *fill*         0x20000001        0x3 
+ .data          0x20000004       0x1c obj\debugmd\src\usb_desc.o
+                0x20000004                RHID_StringSerial
+ .data          0x20000020       0x38 obj\debugmd\src\usb_istr.o
+                0x20000020                pEpInt_IN
+                0x2000003c                pEpInt_OUT
+ .data          0x20000058       0x98 obj\debugmd\src\usb_prop.o
+                0x20000058                Device_Table
+                0x2000005c                Device_Property
+                0x2000008c                User_Standard_Requests
+                0x200000b0                Device_Descriptor
+                0x200000b8                Config_Descriptor
+                0x200000c0                RHID_Report_Descriptor
+                0x200000c8                RHID_Hid_Descriptor
+                0x200000d0                String_Descriptor
+ .data          0x200000f0        0x1 obj\debugmd\src\usb_pwr.o
+                0x200000f0                fSuspendEnabled
+ *fill*         0x200000f1        0x3 
+ .data          0x200000f4       0x14 obj\debugmd\cmsis_boot\system_stm32f10x.o
+                0x200000f4                SystemCoreClock
+                0x200000f8                AHBPrescTable
+ .data          0x20000108       0x14 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ *fill*         0x2000011c        0x4 
+ .data.impure_data
+                0x20000120      0x428 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                0x20000548                . = ALIGN (0x4)
+                0x20000548                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000548                PROVIDE (__preinit_array_end, .)
+                0x20000548                . = ALIGN (0x4)
+                0x20000548                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x20000548        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x2000054c        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+                0x20000550                PROVIDE (__init_array_end, .)
+                0x20000550                . = ALIGN (0x4)
+                0x20000550                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000550        0x4 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+                0x20000554                PROVIDE (__fini_array_end, .)
+                0x20000554                . = ALIGN (0x4)
+                0x20000554                __data_end__ = .
+
+.jcr            0x20000554        0x0 load address 0x0800ada0
+ .jcr           0x20000554        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.igot.plt       0x20000554        0x0 load address 0x0800ada0
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.bss            0x20000554      0x1e2 load address 0x0800ada0
+                0x20000554                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000554       0x1c c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .bss           0x20000570        0xc obj\debugmd\src\usb_istr.o
+                0x20000570                bIntPackSOF
+                0x20000574                esof_counter
+                0x20000578                wCNTR
+ .bss           0x2000057c        0x1 obj\debugmd\src\usb_prop.o
+                0x2000057c                Request
+ *fill*         0x2000057d        0x3 
+ .bss           0x20000580        0x8 obj\debugmd\src\usb_pwr.o
+                0x20000580                bDeviceState
+                0x20000584                remotewakeupon
+ .bss           0x20000588        0x1 obj\debugmd\usb-fs\src\usb_core.o
+                0x20000588                Data_Mul_MaxPacketSize
+ *(COMMON)
+ *fill*         0x20000589        0x3 
+ COMMON         0x2000058c       0x30 obj\debugmd\src\softtimer.o
+                0x2000058c                prTimer
+ COMMON         0x200005bc       0x4e obj\debugmd\src\hw_config.o
+                0x200005bc                HSEStartUpStatus
+                0x200005be                btn1_prev
+                0x200005c0                Buffer
+                0x20000600                EXTI_InitStructure
+                0x20000608                btn2_prev
+ *fill*         0x2000060a        0x2 
+ COMMON         0x2000060c       0x40 obj\debugmd\src\usb_endp.o
+                0x2000060c                Receive_Buffer
+ COMMON         0x2000064c        0x2 obj\debugmd\src\usb_istr.o
+                0x2000064c                wIstr
+ *fill*         0x2000064e        0x2 
+ COMMON         0x20000650       0x85 obj\debugmd\src\usb_prop.o
+                0x20000650                ProtocolValue
+                0x20000654                ReadBufer
+                0x20000694                Report_Buf
+                0x200006d4                EXTI_Enable
+ *fill*         0x200006d5        0x3 
+ COMMON         0x200006d8       0x24 obj\debugmd\src\usb_pwr.o
+                0x200006d8                ResumeS
+                0x200006dc                EP
+ COMMON         0x200006fc        0x2 obj\debugmd\usb-fs\src\usb_core.o
+                0x200006fc                StatusInfo
+ *fill*         0x200006fe        0x2 
+ COMMON         0x20000700       0x32 obj\debugmd\usb-fs\src\usb_init.o
+                0x20000700                SaveState
+                0x20000704                pProperty
+                0x20000708                EPindex
+                0x2000070c                Device_Info
+                0x20000728                pUser_Standard_Requests
+                0x2000072c                pInformation
+                0x20000730                wInterrupt_Mask
+ COMMON         0x20000732        0x4 obj\debugmd\usb-fs\src\usb_int.o
+                0x20000732                SaveRState
+                0x20000734                SaveTState
+                0x20000736                __bss_end__ = .
+
+.heap           0x20000738        0x0
+                0x20000738                __end__ = .
+                0x20000738                end = __end__
+ *(.heap*)
+ .heap          0x20000738        0x0 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+                0x20000738                __HeapLimit = .
+
+.stack_dummy    0x20000738      0x100
+ *(.stack)
+ .stack         0x20000738      0x100 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+                0x20005000                __StackTop = (ORIGIN (RAM) + 0x5000)
+                0x20004f00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20005000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+LOAD obj\debugmd\src\softtimer.o
+LOAD obj\debugmd\src\can_setting.o
+LOAD obj\debugmd\src\hw_config.o
+LOAD obj\debugmd\src\main.o
+LOAD obj\debugmd\src\stm32_it.o
+LOAD obj\debugmd\src\usb_desc.o
+LOAD obj\debugmd\src\usb_endp.o
+LOAD obj\debugmd\src\usb_istr.o
+LOAD obj\debugmd\src\usb_prop.o
+LOAD obj\debugmd\src\usb_pwr.o
+LOAD obj\debugmd\usb-fs\src\usb_core.o
+LOAD obj\debugmd\usb-fs\src\usb_init.o
+LOAD obj\debugmd\usb-fs\src\usb_int.o
+LOAD obj\debugmd\usb-fs\src\usb_mem.o
+LOAD obj\debugmd\usb-fs\src\usb_regs.o
+LOAD obj\debugmd\usb-fs\src\usb_sil.o
+LOAD obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+LOAD obj\debugmd\cmsis_boot\system_stm32f10x.o
+LOAD obj\debugmd\stm_lib\src\misc.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_can.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_exti.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_flash.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_tim.o
+LOAD obj\debugmd\stm_lib\src\stm32f10x_usart.o
+START GROUP
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m\libgcc.a
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+LOAD c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+OUTPUT(bin\DebugMD\tstHID-STM32F103.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x33 obj\debugmd\src\softtimer.o
+ .ARM.attributes
+                0x00000098       0x33 obj\debugmd\src\can_setting.o
+ .ARM.attributes
+                0x000000cb       0x33 obj\debugmd\src\hw_config.o
+ .ARM.attributes
+                0x000000fe       0x33 obj\debugmd\src\main.o
+ .ARM.attributes
+                0x00000131       0x33 obj\debugmd\src\stm32_it.o
+ .ARM.attributes
+                0x00000164       0x33 obj\debugmd\src\usb_desc.o
+ .ARM.attributes
+                0x00000197       0x33 obj\debugmd\src\usb_endp.o
+ .ARM.attributes
+                0x000001ca       0x33 obj\debugmd\src\usb_istr.o
+ .ARM.attributes
+                0x000001fd       0x33 obj\debugmd\src\usb_prop.o
+ .ARM.attributes
+                0x00000230       0x33 obj\debugmd\src\usb_pwr.o
+ .ARM.attributes
+                0x00000263       0x33 obj\debugmd\usb-fs\src\usb_core.o
+ .ARM.attributes
+                0x00000296       0x33 obj\debugmd\usb-fs\src\usb_init.o
+ .ARM.attributes
+                0x000002c9       0x33 obj\debugmd\usb-fs\src\usb_int.o
+ .ARM.attributes
+                0x000002fc       0x33 obj\debugmd\usb-fs\src\usb_mem.o
+ .ARM.attributes
+                0x0000032f       0x33 obj\debugmd\usb-fs\src\usb_regs.o
+ .ARM.attributes
+                0x00000362       0x33 obj\debugmd\usb-fs\src\usb_sil.o
+ .ARM.attributes
+                0x00000395       0x1b obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .ARM.attributes
+                0x000003b0       0x33 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .ARM.attributes
+                0x000003e3       0x33 obj\debugmd\stm_lib\src\misc.o
+ .ARM.attributes
+                0x00000416       0x33 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .ARM.attributes
+                0x00000449       0x33 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .ARM.attributes
+                0x0000047c       0x33 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .ARM.attributes
+                0x000004af       0x33 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .ARM.attributes
+                0x000004e2       0x33 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000515       0x33 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000548       0x33 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .ARM.attributes
+                0x0000057b       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000005a8       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000005d5       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000602       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000062f       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000065c       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000689       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000006b6       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000006e3       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000710       0x2d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x0000073d       0x1d c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x4e
+ .comment       0x00000000       0x4e obj\debugmd\src\softtimer.o
+                                 0x4f (size before relaxing)
+ .comment       0x00000000       0x4f obj\debugmd\src\can_setting.o
+ .comment       0x00000000       0x4f obj\debugmd\src\hw_config.o
+ .comment       0x00000000       0x4f obj\debugmd\src\main.o
+ .comment       0x00000000       0x4f obj\debugmd\src\stm32_it.o
+ .comment       0x00000000       0x4f obj\debugmd\src\usb_desc.o
+ .comment       0x00000000       0x4f obj\debugmd\src\usb_endp.o
+ .comment       0x00000000       0x4f obj\debugmd\src\usb_istr.o
+ .comment       0x00000000       0x4f obj\debugmd\src\usb_prop.o
+ .comment       0x00000000       0x4f obj\debugmd\src\usb_pwr.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_core.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_init.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_int.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_mem.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_regs.o
+ .comment       0x00000000       0x4f obj\debugmd\usb-fs\src\usb_sil.o
+ .comment       0x00000000       0x4f obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\misc.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .comment       0x00000000       0x4f obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_info     0x00000000     0xb333
+ .debug_info    0x00000000      0x124 obj\debugmd\src\softtimer.o
+ .debug_info    0x00000124      0xc04 obj\debugmd\src\can_setting.o
+ .debug_info    0x00000d28      0x8fb obj\debugmd\src\hw_config.o
+ .debug_info    0x00001623      0x955 obj\debugmd\src\main.o
+ .debug_info    0x00001f78      0x192 obj\debugmd\src\stm32_it.o
+ .debug_info    0x0000210a      0x1a4 obj\debugmd\src\usb_desc.o
+ .debug_info    0x000022ae      0x1c1 obj\debugmd\src\usb_endp.o
+ .debug_info    0x0000246f      0x417 obj\debugmd\src\usb_istr.o
+ .debug_info    0x00002886      0xc9d obj\debugmd\src\usb_prop.o
+ .debug_info    0x00003523      0x5c9 obj\debugmd\src\usb_pwr.o
+ .debug_info    0x00003aec      0xc03 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_info    0x000046ef      0x499 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_info    0x00004b88      0x1e6 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_info    0x00004d6e      0x1ba obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_info    0x00004f28      0xdac obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_info    0x00005cd4      0x175 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_info    0x00005e49       0x8d obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .debug_info    0x00005ed6      0x302 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_info    0x000061d8      0x596 obj\debugmd\stm_lib\src\misc.o
+ .debug_info    0x0000676e      0xc78 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_info    0x000073e6      0x371 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_info    0x00007757      0x83d obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_info    0x00007f94      0x73d obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_info    0x000086d1      0x4be obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_info    0x00008b8f      0x929 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_info    0x000094b8     0x1e7b obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_abbrev   0x00000000     0x243c
+ .debug_abbrev  0x00000000       0xdc obj\debugmd\src\softtimer.o
+ .debug_abbrev  0x000000dc      0x186 obj\debugmd\src\can_setting.o
+ .debug_abbrev  0x00000262      0x273 obj\debugmd\src\hw_config.o
+ .debug_abbrev  0x000004d5      0x200 obj\debugmd\src\main.o
+ .debug_abbrev  0x000006d5       0x82 obj\debugmd\src\stm32_it.o
+ .debug_abbrev  0x00000757       0x78 obj\debugmd\src\usb_desc.o
+ .debug_abbrev  0x000007cf      0x117 obj\debugmd\src\usb_endp.o
+ .debug_abbrev  0x000008e6      0x153 obj\debugmd\src\usb_istr.o
+ .debug_abbrev  0x00000a39      0x293 obj\debugmd\src\usb_prop.o
+ .debug_abbrev  0x00000ccc      0x202 obj\debugmd\src\usb_pwr.o
+ .debug_abbrev  0x00000ece      0x28e obj\debugmd\usb-fs\src\usb_core.o
+ .debug_abbrev  0x0000115c      0x123 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_abbrev  0x0000127f       0xd3 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_abbrev  0x00001352       0xa2 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_abbrev  0x000013f4      0x172 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_abbrev  0x00001566       0xc0 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_abbrev  0x00001626       0x14 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .debug_abbrev  0x0000163a      0x151 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_abbrev  0x0000178b      0x12c obj\debugmd\stm_lib\src\misc.o
+ .debug_abbrev  0x000018b7      0x1da obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_abbrev  0x00001a91      0x156 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_abbrev  0x00001be7      0x190 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_abbrev  0x00001d77      0x1cd obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_abbrev  0x00001f44      0x184 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_abbrev  0x000020c8      0x1bf obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_abbrev  0x00002287      0x1b5 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_loc      0x00000000     0x4e42
+ .debug_loc     0x00000000       0x70 obj\debugmd\src\softtimer.o
+ .debug_loc     0x00000070      0x118 obj\debugmd\src\can_setting.o
+ .debug_loc     0x00000188      0x250 obj\debugmd\src\hw_config.o
+ .debug_loc     0x000003d8      0x144 obj\debugmd\src\main.o
+ .debug_loc     0x0000051c      0x1e4 obj\debugmd\src\stm32_it.o
+ .debug_loc     0x00000700       0x90 obj\debugmd\src\usb_endp.o
+ .debug_loc     0x00000790       0x38 obj\debugmd\src\usb_istr.o
+ .debug_loc     0x000007c8      0x3b6 obj\debugmd\src\usb_prop.o
+ .debug_loc     0x00000b7e      0x10c obj\debugmd\src\usb_pwr.o
+ .debug_loc     0x00000c8a      0x3f8 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_loc     0x00001082       0x2c obj\debugmd\usb-fs\src\usb_init.o
+ .debug_loc     0x000010ae       0x70 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_loc     0x0000111e       0x70 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_loc     0x0000118e      0xcac obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_loc     0x00001e3a       0x9c obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_loc     0x00001ed6       0xc8 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_loc     0x00001f9e      0x118 obj\debugmd\stm_lib\src\misc.o
+ .debug_loc     0x000020b6      0x578 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_loc     0x0000262e      0x1b4 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_loc     0x000027e2      0x5d8 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_loc     0x00002dba      0x3e4 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_loc     0x0000319e      0x1e0 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_loc     0x0000337e      0x6dc obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_loc     0x00003a5a     0x13e8 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_aranges  0x00000000      0x338
+ .debug_aranges
+                0x00000000       0x20 obj\debugmd\src\softtimer.o
+ .debug_aranges
+                0x00000020       0x20 obj\debugmd\src\can_setting.o
+ .debug_aranges
+                0x00000040       0x20 obj\debugmd\src\hw_config.o
+ .debug_aranges
+                0x00000060       0x20 obj\debugmd\src\main.o
+ .debug_aranges
+                0x00000080       0x20 obj\debugmd\src\stm32_it.o
+ .debug_aranges
+                0x000000a0       0x18 obj\debugmd\src\usb_desc.o
+ .debug_aranges
+                0x000000b8       0x20 obj\debugmd\src\usb_endp.o
+ .debug_aranges
+                0x000000d8       0x20 obj\debugmd\src\usb_istr.o
+ .debug_aranges
+                0x000000f8       0x20 obj\debugmd\src\usb_prop.o
+ .debug_aranges
+                0x00000118       0x20 obj\debugmd\src\usb_pwr.o
+ .debug_aranges
+                0x00000138       0x20 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_aranges
+                0x00000158       0x20 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_aranges
+                0x00000178       0x20 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_aranges
+                0x00000198       0x20 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_aranges
+                0x000001b8       0x20 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_aranges
+                0x000001d8       0x20 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_aranges
+                0x000001f8       0x20 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000218       0x20 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_aranges
+                0x00000238       0x20 obj\debugmd\stm_lib\src\misc.o
+ .debug_aranges
+                0x00000258       0x20 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_aranges
+                0x00000278       0x20 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_aranges
+                0x00000298       0x20 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_aranges
+                0x000002b8       0x20 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_aranges
+                0x000002d8       0x20 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_aranges
+                0x000002f8       0x20 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_aranges
+                0x00000318       0x20 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_macro    0x00000000     0xeadd
+ .debug_macro   0x00000000       0x1b obj\debugmd\src\softtimer.o
+ .debug_macro   0x0000001b      0x820 obj\debugmd\src\softtimer.o
+ .debug_macro   0x0000083b      0x11a obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000955       0x5d obj\debugmd\src\can_setting.o
+ .debug_macro   0x000009b2       0x3a obj\debugmd\src\can_setting.o
+ .debug_macro   0x000009ec       0x3a obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000a26       0x10 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000a36       0x2e obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000a64       0xa2 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000b06      0x20e obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000d14       0x18 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00000d2c      0xa36 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00001762     0x7eb3 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00009615       0x35 obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000964a      0x3c9 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00009a13       0x9d obj\debugmd\src\can_setting.o
+ .debug_macro   0x00009ab0      0x2d5 obj\debugmd\src\can_setting.o
+ .debug_macro   0x00009d85      0x2ad obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000a032       0x82 obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000a0b4      0x3e2 obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000a496      0x711 obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000aba7      0x229 obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000add0       0x8c obj\debugmd\src\can_setting.o
+ .debug_macro   0x0000ae5c      0x1a6 obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b002       0x6a obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b06c       0x7c obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b0e8      0x454 obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b53c       0x28 obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b564       0x5e obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b5c2       0x9a obj\debugmd\src\hw_config.o
+ .debug_macro   0x0000b65c      0x1b7 obj\debugmd\src\main.o
+ .debug_macro   0x0000b813      0x1b9 obj\debugmd\src\stm32_it.o
+ .debug_macro   0x0000b9cc      0x19c obj\debugmd\src\usb_desc.o
+ .debug_macro   0x0000bb68      0x1b0 obj\debugmd\src\usb_endp.o
+ .debug_macro   0x0000bd18      0x1b4 obj\debugmd\src\usb_istr.o
+ .debug_macro   0x0000becc       0x3a obj\debugmd\src\usb_istr.o
+ .debug_macro   0x0000bf06      0x1eb obj\debugmd\src\usb_prop.o
+ .debug_macro   0x0000c0f1      0x19d obj\debugmd\src\usb_pwr.o
+ .debug_macro   0x0000c28e      0x1cf obj\debugmd\usb-fs\src\usb_core.o
+ .debug_macro   0x0000c45d      0x193 obj\debugmd\usb-fs\src\usb_init.o
+ .debug_macro   0x0000c5f0      0x193 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_macro   0x0000c783      0x193 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_macro   0x0000c916      0x193 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_macro   0x0000caa9      0x193 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_macro   0x0000cc3c      0x11d obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_macro   0x0000cd59      0x120 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x0000ce79       0x86 obj\debugmd\stm_lib\src\misc.o
+ .debug_macro   0x0000ceff      0x16e obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x0000d06d       0x97 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_macro   0x0000d104      0x120 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_macro   0x0000d224      0x1b0 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x0000d3d4      0x2cf obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_macro   0x0000d6a3      0x168 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x0000d80b      0x2a7 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_macro   0x0000dab2      0x15c obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x0000dc0e       0x7c obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_macro   0x0000dc8a      0x23a obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x0000dec4      0x3dc obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_macro   0x0000e2a0      0x132 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_macro   0x0000e3d2      0x70b obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_line     0x00000000     0x79a8
+ .debug_line    0x00000000       0x72 obj\debugmd\src\softtimer.o
+ .debug_line    0x00000072      0x3fe obj\debugmd\src\can_setting.o
+ .debug_line    0x00000470      0x51a obj\debugmd\src\hw_config.o
+ .debug_line    0x0000098a      0x4df obj\debugmd\src\main.o
+ .debug_line    0x00000e69      0x4c4 obj\debugmd\src\stm32_it.o
+ .debug_line    0x0000132d      0x45f obj\debugmd\src\usb_desc.o
+ .debug_line    0x0000178c      0x4a6 obj\debugmd\src\usb_endp.o
+ .debug_line    0x00001c32      0x4e9 obj\debugmd\src\usb_istr.o
+ .debug_line    0x0000211b      0x61b obj\debugmd\src\usb_prop.o
+ .debug_line    0x00002736      0x50e obj\debugmd\src\usb_pwr.o
+ .debug_line    0x00002c44      0x6b6 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_line    0x000032fa      0x46e obj\debugmd\usb-fs\src\usb_init.o
+ .debug_line    0x00003768      0x543 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_line    0x00003cab      0x4b5 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_line    0x00004160      0x711 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_line    0x00004871      0x47a obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_line    0x00004ceb       0xa7 obj\debugmd\cmsis_boot\startup\startup_stm32f10x_md.o
+ .debug_line    0x00004d92      0x431 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_line    0x000051c3      0x3cf obj\debugmd\stm_lib\src\misc.o
+ .debug_line    0x00005592      0x5d7 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_line    0x00005b69      0x3fe obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_line    0x00005f67      0x52f obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_line    0x00006496      0x483 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_line    0x00006919      0x401 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_line    0x00006d1a      0x4e1 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_line    0x000071fb      0x7ad obj\debugmd\stm_lib\src\stm32f10x_tim.o
+
+.debug_str      0x00000000    0x47cb6
+ .debug_str     0x00000000     0x2303 obj\debugmd\src\softtimer.o
+                               0x2330 (size before relaxing)
+ .debug_str     0x00002303    0x3ea88 obj\debugmd\src\can_setting.o
+                              0x40de3 (size before relaxing)
+ .debug_str     0x00040d8b     0x2be0 obj\debugmd\src\hw_config.o
+                              0x43673 (size before relaxing)
+ .debug_str     0x0004396b       0xad obj\debugmd\src\main.o
+                              0x432a7 (size before relaxing)
+ .debug_str     0x00043a18       0xeb obj\debugmd\src\stm32_it.o
+                              0x42c52 (size before relaxing)
+ .debug_str     0x00043b03       0x88 obj\debugmd\src\usb_desc.o
+                              0x42e71 (size before relaxing)
+ .debug_str     0x00043b8b       0x62 obj\debugmd\src\usb_endp.o
+                              0x42e81 (size before relaxing)
+ .debug_str     0x00043bed      0x2ba obj\debugmd\src\usb_istr.o
+                              0x42f16 (size before relaxing)
+ .debug_str     0x00043ea7      0x657 obj\debugmd\src\usb_prop.o
+                              0x43941 (size before relaxing)
+ .debug_str     0x000444fe       0xe0 obj\debugmd\src\usb_pwr.o
+                              0x42de7 (size before relaxing)
+ .debug_str     0x000445de      0x501 obj\debugmd\usb-fs\src\usb_core.o
+                              0x435e2 (size before relaxing)
+ .debug_str     0x00044adf       0x31 obj\debugmd\usb-fs\src\usb_init.o
+                              0x42f23 (size before relaxing)
+ .debug_str     0x00044b10       0x2a obj\debugmd\usb-fs\src\usb_int.o
+                              0x42bd7 (size before relaxing)
+ .debug_str     0x00044b3a       0x6d obj\debugmd\usb-fs\src\usb_mem.o
+                              0x42bd8 (size before relaxing)
+ .debug_str     0x00044ba7      0x3d9 obj\debugmd\usb-fs\src\usb_regs.o
+                              0x42f60 (size before relaxing)
+ .debug_str     0x00044f80       0x6b obj\debugmd\usb-fs\src\usb_sil.o
+                              0x42be6 (size before relaxing)
+ .debug_str     0x00044feb      0x104 obj\debugmd\cmsis_boot\system_stm32f10x.o
+                              0x40777 (size before relaxing)
+ .debug_str     0x000450ef      0x119 obj\debugmd\stm_lib\src\misc.o
+                              0x408aa (size before relaxing)
+ .debug_str     0x00045208      0x5a4 obj\debugmd\stm_lib\src\stm32f10x_can.o
+                              0x40dd1 (size before relaxing)
+ .debug_str     0x000457ac      0x102 obj\debugmd\stm_lib\src\stm32f10x_exti.o
+                              0x40837 (size before relaxing)
+ .debug_str     0x000458ae      0x767 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+                              0x40e24 (size before relaxing)
+ .debug_str     0x00046015      0x47b obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+                              0x40c11 (size before relaxing)
+ .debug_str     0x00046490      0x29c obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+                              0x4098c (size before relaxing)
+ .debug_str     0x0004672c      0xacf obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+                              0x411f7 (size before relaxing)
+ .debug_str     0x000471fb      0xabb obj\debugmd\stm_lib\src\stm32f10x_tim.o
+                              0x41315 (size before relaxing)
+
+.debug_frame    0x00000000     0x2bd4
+ .debug_frame   0x00000000       0x48 obj\debugmd\src\softtimer.o
+ .debug_frame   0x00000048       0xac obj\debugmd\src\can_setting.o
+ .debug_frame   0x000000f4      0x160 obj\debugmd\src\hw_config.o
+ .debug_frame   0x00000254       0xc4 obj\debugmd\src\main.o
+ .debug_frame   0x00000318      0x120 obj\debugmd\src\stm32_it.o
+ .debug_frame   0x00000438       0x64 obj\debugmd\src\usb_endp.o
+ .debug_frame   0x0000049c       0x30 obj\debugmd\src\usb_istr.o
+ .debug_frame   0x000004cc      0x220 obj\debugmd\src\usb_prop.o
+ .debug_frame   0x000006ec       0xa8 obj\debugmd\src\usb_pwr.o
+ .debug_frame   0x00000794      0x254 obj\debugmd\usb-fs\src\usb_core.o
+ .debug_frame   0x000009e8       0x2c obj\debugmd\usb-fs\src\usb_init.o
+ .debug_frame   0x00000a14       0x50 obj\debugmd\usb-fs\src\usb_int.o
+ .debug_frame   0x00000a64       0x48 obj\debugmd\usb-fs\src\usb_mem.o
+ .debug_frame   0x00000aac      0x684 obj\debugmd\usb-fs\src\usb_regs.o
+ .debug_frame   0x00001130       0x68 obj\debugmd\usb-fs\src\usb_sil.o
+ .debug_frame   0x00001198       0x80 obj\debugmd\cmsis_boot\system_stm32f10x.o
+ .debug_frame   0x00001218       0x9c obj\debugmd\stm_lib\src\misc.o
+ .debug_frame   0x000012b4      0x2d4 obj\debugmd\stm_lib\src\stm32f10x_can.o
+ .debug_frame   0x00001588       0xec obj\debugmd\stm_lib\src\stm32f10x_exti.o
+ .debug_frame   0x00001674      0x338 obj\debugmd\stm_lib\src\stm32f10x_flash.o
+ .debug_frame   0x000019ac      0x210 obj\debugmd\stm_lib\src\stm32f10x_gpio.o
+ .debug_frame   0x00001bbc      0x108 obj\debugmd\stm_lib\src\stm32f10x_pwr.o
+ .debug_frame   0x00001cc4      0x388 obj\debugmd\stm_lib\src\stm32f10x_rcc.o
+ .debug_frame   0x0000204c      0xa20 obj\debugmd\stm_lib\src\stm32f10x_tim.o
+ .debug_frame   0x00002a6c       0x34 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00002aa0       0x28 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00002ac8       0x2c c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00002af4       0x2c c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00002b20       0x2c c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00002b4c       0x48 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002b94       0x20 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00002bb4       0x20 c:/program files (x86)/emblocks/2.20/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
